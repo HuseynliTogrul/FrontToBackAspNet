@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\fonts\\SnellBT-Bold.otf",
+      "PackagePath": "staticwebassets\\fonts\\SnellBT-Bold.otf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\fonts\\SnellBT-Regular.otf",
+      "PackagePath": "staticwebassets\\fonts\\SnellBT-Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\chocolate1.png",
+      "PackagePath": "staticwebassets\\images\\chocolate1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\chocolate2.png",
+      "PackagePath": "staticwebassets\\images\\chocolate2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\chocolate3.png",
+      "PackagePath": "staticwebassets\\images\\chocolate3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\client-bg.png",
+      "PackagePath": "staticwebassets\\images\\client-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\client-chocolate.png",
+      "PackagePath": "staticwebassets\\images\\client-chocolate.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\client-img.jpg",
+      "PackagePath": "staticwebassets\\images\\client-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\color-arrow.png",
+      "PackagePath": "staticwebassets\\images\\color-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\insta-img.png",
+      "PackagePath": "staticwebassets\\images\\insta-img.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\offer-img.png",
+      "PackagePath": "staticwebassets\\images\\offer-img.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\slider-bg1.png",
+      "PackagePath": "staticwebassets\\images\\slider-bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\slider-bg2.png",
+      "PackagePath": "staticwebassets\\images\\slider-bg2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\images\\white-arrow.png",
+      "PackagePath": "staticwebassets\\images\\white-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\FrontToBackAspNet\\FrontToBackAspNet\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FrontToBackAspNet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FrontToBackAspNet.props",
+      "PackagePath": "build\\FrontToBackAspNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FrontToBackAspNet.props",
+      "PackagePath": "buildMultiTargeting\\FrontToBackAspNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FrontToBackAspNet.props",
+      "PackagePath": "buildTransitive\\FrontToBackAspNet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
