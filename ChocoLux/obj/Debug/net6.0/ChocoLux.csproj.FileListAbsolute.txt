@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\bin\Debug\net6.0\ChocoLux.deps.json
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\bin\Debug\net6.0\ChocoLux.runtimeconfig.json
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\bin\Debug\net6.0\ChocoLux.dll
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\bin\Debug\net6.0\ChocoLux.pdb
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\obj\Debug\net6.0\ChocoLux.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\obj\Debug\net6.0\ChocoLux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\obj\Debug\net6.0\ChocoLux.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\obj\Debug\net6.0\ChocoLux.AssemblyInfo.cs
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\obj\Debug\net6.0\ChocoLux.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\obj\Debug\net6.0\ChocoLux.dll
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\obj\Debug\net6.0\refint\ChocoLux.dll
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\obj\Debug\net6.0\ChocoLux.pdb
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\obj\Debug\net6.0\ChocoLux.genruntimeconfig.cache
+C:\Users\acer\Desktop\FrontToBackAspNet\ChocoLux\obj\Debug\net6.0\ref\ChocoLux.dll
