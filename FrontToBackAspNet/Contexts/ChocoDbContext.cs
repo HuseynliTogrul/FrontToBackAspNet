@@ -11,5 +11,11 @@ namespace FrontToBackAspNet.Contexts
         }
 
     public DbSet<Position> positions {  get; set; }
+        public object Settings { get; internal set; }
+
+        internal object Service()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -1,4 +1,6 @@
 using FrontToBackAspNet.Contexts;
+using FrontToBackAspNet.Services.Implemantations;
+using FrontToBackAspNet.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +12,8 @@ builder.Services.AddDbContext<ChocoDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 });
+
+builder.Services.AddScoped<ISettingService, SettingService>();
 
 var app = builder.Build();
 

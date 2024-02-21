@@ -1,4 +1,9 @@
-﻿<!DOCTYPE html>
+﻿@inject ISettingService SettingService;
+@{
+    Setting setting = await SettingService.GetAsync();
+}
+
+<!DOCTYPE html>
 <html>
 
 <head>
